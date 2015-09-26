@@ -1,9 +1,9 @@
-# Laravel Elixir Bower
+# Laravel Elixir Bower Normalize
 
 ### Install
 
 ```sh
-$ npm install laravel-elixir-bower --save-dev
+$ npm install laravel-elixir-bower-normalize --save-dev
 ```
 
 ### Example
@@ -12,9 +12,8 @@ bower.json
 
 ```javascript
 {
-  "name": "laravel",
+  "name": "laravel-elixir-bower-normalize",
   "version": "1.0.0",
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -61,7 +60,7 @@ bower.json
 ```javascript
 var elixir = require('laravel-elixir');
 
-require('laravel-elixir-bower');
+require('laravel-elixir-bower-normalize');
 
 elixir(function (mix) {
 

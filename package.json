@@ -1,5 +1,5 @@
 {
-  "name": "laravel-elixir-bower",
+  "name": "laravel-elixir-bower-normalize",
   "version": "1.0.0",
   "description": "Laravel Elixir Bower Extension",
   "main": "index.js",
@@ -21,9 +21,11 @@
   },
   "homepage": "https://github.com/ck-developer/laravel-elixir-bower",
   "dependencies": {
+    "gulp": "^3.8.8",
     "gulp-bower": "0.0.10",
     "gulp-bower-normalize": "^1.0.6",
     "gulp-rimraf": "^0.1.1",
+    "main-bower-files": "^2.9.0",
     "underscore": "^1.7.0"
   }
 }
