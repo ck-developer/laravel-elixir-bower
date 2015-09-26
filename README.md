@@ -57,6 +57,8 @@ bower.json
 }
 ```
 
+gulpfile.js
+
 ```javascript
 var elixir = require('laravel-elixir');
 
