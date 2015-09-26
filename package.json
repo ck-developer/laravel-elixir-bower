@@ -1,0 +1,29 @@
+{
+  "name": "laravel-elixir-bower",
+  "version": "1.0.0",
+  "description": "Laravel Elixir Bower Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "bower",
+    "gulp"
+  ],
+  "author": {
+    "name": "Claude Khedhiri"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ck-developer/laravel-elixir-bower/issues"
+  },
+  "homepage": "https://github.com/ck-developer/laravel-elixir-bower",
+  "dependencies": {
+    "gulp-bower": "0.0.10",
+    "gulp-bower-normalize": "^1.0.6",
+    "gulp-rimraf": "^0.1.1",
+    "underscore": "^1.7.0"
+  }
+}
